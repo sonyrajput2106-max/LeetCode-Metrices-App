@@ -1,14 +1,15 @@
 # 🚀 LEETMETRIC — LeetCode Progress Tracker
 
+
 **LEETMETRIC** is a web application that helps users track their **LeetCode problem-solving progress** by simply entering their LeetCode username.
 
-The app fetches real-time user statistics using an API and displays progress in a clean and interactive dashboard.
+The app fetches real-time user statistics using an API and displays progress in a clean and interactive dashboard
 
 ---
 
 ## 🌟 Features
 
-✅ Enter LeetCode username  
+✅ Enter LeetCode username   
 ✅ Fetch user stats instantly using API  
 ✅ Display progress in a visual format  
 ✅ Shows solved problems count  
@@ -41,6 +42,7 @@ The app fetches real-time user statistics using an API and displays progress in 
 ## 🔗 API Used
 
 LEETMETRIC fetches user data from:
+
 
 ```txt
 https://leetcode-stats-api.herokuapp.com/{username}
